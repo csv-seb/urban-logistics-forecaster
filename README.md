@@ -1,4 +1,4 @@
-# Urban Logistics Forecaster: Predictive Modeling for Fleet Optimization
+# Predictive Modeling for Fleet Optimization
 
 ## Technical Deep-Dive: Time-Series Regression & Gradient Boosting
 
