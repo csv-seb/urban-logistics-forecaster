@@ -1,4 +1,4 @@
 remote_theme: pages-themes/midnight@v0.2.0
-title: "Urban Logistics Forecaster"
+title: "Service demand Forecaster"
 plugins:
   - jekyll-remote-theme
