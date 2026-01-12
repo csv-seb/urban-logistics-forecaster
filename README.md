@@ -66,7 +66,7 @@ I benchmarked three primary architectures:
 | XGBoost | 42.26 | 4.64s | Strong performance, slower training |
 | LightGBM (Optimized) | 40.03 | 0.19s | Best balance of accuracy & efficiency |
 
-Using **Permutation Importance**, I reduced the feature set from 31 to 7, improving generalization and reducing training time by over 65%.
+Using **Permutation Importance**, I reduced the feature set from 31 to 7, improving generalization and reducing training time by approximately 68%.
 
 ## Key Insights & Results
 
